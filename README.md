@@ -14,3 +14,11 @@
 - Работа с библиотеками seaborn и plotly, оформление отчетов
 - Автоматизация
 - Прогнозы и предсказания (ознакомление с основами машинного обучения)
+
+## Проекты
+| Название проекта (ссылка)   | Описание           | Библиотеки |
+| ------------------- |:-------------:| -----------:| 
+| [A:B-test](https://github.com/TarasovaJuli/Yandex.Praktikum.Projects/tree/main/A:B-test) | Приоритизация гипотез и анализ результатов работы А/В-теста. Фреймворки ICE и RICE, статистический тест Манна-Уитни | pandas, numpy, datetime, scipy.stats, matplotlib.pyplot, seaborn |
+| [Business_indicators_analysis](https://github.com/TarasovaJuli/Yandex.Praktikum.Projects/tree/main/Business_indicators_analysis)     | В данном проекте основное внимание уделено анализу бизнес-показателей. Работа отдела маркетинговой аналитики. Необходимо выделить невыгодные источники трафика, чтобы в дальнейшем отказаться от них и перераспределить бюджет. Расчет продуктовых метрик: DAU, WAU и MAU, Retention Rate; маркетинговых метрики: CAC, ROMI | pandas, numpy, seaborn, matplotlib |
+| [Games_project](https://github.com/TarasovaJuli/Yandex.Praktikum.Projects/tree/main/Games_project) | На основе исторических данных необходимо выяснить какие факторы влияют на успешность игры, а также отработать принцип составления плана рекламной кампании на следующий год/период | pandas, random, seaborn, plotly, matplotlib, math, datetime, numpy, scipy |
+| [Public catering market](https://github.com/TarasovaJuli/Yandex.Praktikum.Projects/tree/main/Public%20catering%20market) | Изучить текущее состояние дел на рынке заведений общественного питания. Оценить влияние различных факторов, таких как расположение, тип заведения, число посадочных мест и др., на популярность тех или иных заведений. | pandas, numpy, requests, matplotlib, seaborn, plotly, geopy, folium |
